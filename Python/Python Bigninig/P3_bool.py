@@ -1,0 +1,6 @@
+print(10<20)
+print("1234567890"<"12345678")
+print(True==False)
+print(False==True)
+print(True==True)
+print(False==False)
